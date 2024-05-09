@@ -2,7 +2,7 @@
 
 ## Talofa 👋
 
-I am Web developer always looking for my next opportunity to grow.
+I am Web developer always looking for a new opportunity to grow.
 
 I'm a pasifika individual from a 9-5 warehousing background, diving into a new found passion for problem-solving and searching new ideas through programming.
 I recently graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment.
