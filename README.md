@@ -33,3 +33,11 @@ Here you will find me using my coding skills to help myself and others. But most
 [![Static Badge](https://img.shields.io/badge/-Email-black?logo=gmail)](mailto:samtofat@gmail.com) <br/>
 [Wanna see my CV?](https://github.com/samuel-tofatimoteo/samT/files/15259634/My.Code.CV.pdf)
 
+---
+#### 📋 What am I upto right now?
+I am working on a personal website for a pasifika contemporary artist Serene Hodgman. She is a well known artist around Tāmaki Makaurau Auckland, her works are included in The University of Auckland Art Collection, the Auckland War Memorial Museum and private collections.
+
+#### 📚 What am I learning now?
+I am learning about CMS's (Content Managment System), pretty much for the personal website im working on right now. A CMS I'm eyeing right now is Sanity, looking promising. 
+
+#### 
