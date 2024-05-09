@@ -29,5 +29,7 @@ Here you will find me using my coding skills to help myself and others. But most
 ---
 
 ## Contact 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/sam-tofa-timoteo-211a47263) <br />
-[![Static Badge](https://img.shields.io/badge/-Email-black?logo=gmail)](mailto:samtofat@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/sam-tofa-timoteo-211a47263) <br/>
+[![Static Badge](https://img.shields.io/badge/-Email-black?logo=gmail)](mailto:samtofat@gmail.com) <br/>
+[Wanna see my CV?](https://github.com/samuel-tofatimoteo/samT/files/15259634/My.Code.CV.pdf)
+
