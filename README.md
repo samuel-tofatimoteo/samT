@@ -16,8 +16,6 @@ Here you will find me using my coding skills to help myself and others. But most
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)](https://www.typescriptlang.org/)
 [![HTML](	https://img.shields.io/badge/HTML5-black?logo=html5)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=c%2B%2B)](https://cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-black?logo=python)](https://www.python.org/) <br/>
 [![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-black?logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-ReactJs-black?logo=react)](https://react.dev/)
