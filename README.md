@@ -7,7 +7,7 @@ I am Web developer always looking for my next opportunity to grow.
 I'm a pasifika individual from a 9-5 warehousing background, diving into a new found passion for problem-solving and searching new ideas through programming.
 I recently graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment.
 
-Here you will find me using my coding skills to learn about a new tech and finding things to contribute to. But mostly sharpening my craft 👨‍💻
+Here you will find me using my coding skills to help myself and others. But mostly sharpening my craft 👨‍💻
 
 ---
 
